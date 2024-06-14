@@ -74,7 +74,7 @@ export const info = {
     bio: "👋 Halo, Saya Moch. Yazid Syahrilo Mufid, atau lebih akrab disapa Yazid Mufid dalam dunia pemrograman. Saya adalah seorang pengembang frontend dengan dedikasi tinggi untuk menciptakan pengalaman pengguna yang luar biasa. Dengan latar belakang pendidikan dan pengalaman praktis, saya telah mengembangkan keterampilan dalam desain responsif, pengembangan antarmuka pengguna yang intuitif, dan implementasi solusi kreatif untuk tantangan teknis.",
     skills:
         {
-            proficientWith: ['javascript', 'react',  'github', 'bootstrap', 'html5', 'css', 'figma'],
+            proficientWith: ['javascript', 'react',  'github', 'bootstrap', 'html5', 'css', 'figma', 'laravel'],
             exposedTo: ['reactjs', 'php']
         }
     ,
@@ -88,7 +88,7 @@ export const info = {
             emoji: '☕'
         },
         {
-            label: 'movies',
+            label: 'Movies',
             emoji: '🎥'
         },
         {
