@@ -44,7 +44,7 @@ export default function BaseLayout() {
             <Grid item>
                <Box component={'footer'} display={'flex'} flexDirection={'column'} alignItems={'center'}
                     py={'1.5rem'} sx={{opacity: 0.7}} width={'100%'}>
-                  <p>template created with &hearts; by <a href={'https://www.instagram.com/yyxxzz.d/'}>Yazid Mufid</a></p>
+                  <p>template created with &hearts; by <a href={'file:///C:/Users/PPL-11/Downloads/Yazid%20Mufid.pdf'}>Yazid Mufid</a></p>
                   <p>&copy; 2023</p>
                </Box>
             </Grid>
